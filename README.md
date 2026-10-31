@@ -19,8 +19,8 @@ Meu nome é **Davi Ramos**, tenho 19 anos e sou natural de São Paulo. Desde peq
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+   <a href="https://www.linkedin.com/in/davi-ramos-de-oliveira-884b0130a/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <a href="https://www.linkedin.com/in/davi-ramos-de-oliveira-884b0130a/">
 </div>
 
 ###
