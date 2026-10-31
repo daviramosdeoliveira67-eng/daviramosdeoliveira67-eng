@@ -11,30 +11,16 @@ Meu nome é **Davi Ramos**, tenho 19 anos e sou natural de São Paulo. Desde peq
 ## 🌐 Redes
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/daviramosdeoliveira67-eng">
     <img src="https://img.shields.io/badge/github.com/daviramosdeoliveira67-eng-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
   </a>
   <a href="https://www.youtube.com/@oreidosites">
     <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+ < a Href="https://www.linkedin.com/in/davi-ramos-de-oliveira-884b0130a/">
+   <img src="<a href="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0b3e6aff-8a57-4056-9743-5c75a53128dc" />
+
 </p>
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
 ## 📊 GitHub Stats
 
