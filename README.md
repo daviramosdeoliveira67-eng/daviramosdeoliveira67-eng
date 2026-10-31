@@ -14,11 +14,9 @@ Meu nome é **Davi Ramos**, tenho 19 anos e sou natural de São Paulo. Desde peq
   <a href="https://github.com/daviramosdeoliveira67-eng">
     <img src="https://img.shields.io/badge/github.com/daviramosdeoliveira67-eng-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
  < a Href="https://www.linkedin.com/in/davi-ramos-de-oliveira-884b0130a/">
    <img src="<a href="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"
+ </a>
 </p>
 
 ## 📊 GitHub Stats
