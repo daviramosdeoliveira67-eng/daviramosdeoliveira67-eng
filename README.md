@@ -18,15 +18,14 @@ Meu nome é **Davi Ramos**, tenho 19 anos e sou natural de São Paulo. Desde peq
     <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
  < a Href="https://www.linkedin.com/in/davi-ramos-de-oliveira-884b0130a/">
-   <img src="<a href="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0b3e6aff-8a57-4056-9743-5c75a53128dc" />
-
+   <img src="<a href="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=daviramosdeoliveira67-eng_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviramosdeoliveira67-eng&layout=compact&theme=tokyonight" />
 </p>
 
 ### 🤖 Linguagens e Tecnologias
