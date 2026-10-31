@@ -7,7 +7,7 @@ Meu nome é **Davi Ramos**, tenho 19 anos e sou natural de São Paulo. Desde peq
 <p align="left">
    
   
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/daviramosdeoliveira67-eng?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -81,6 +81,6 @@ Meu nome é **Davi Ramos**, tenho 19 anos e sou natural de São Paulo. Desde peq
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviramosdeoliveira67-eng=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+   
+/>
 </p>
